@@ -1,0 +1,2 @@
+# FriendsList
+Core Data Test
